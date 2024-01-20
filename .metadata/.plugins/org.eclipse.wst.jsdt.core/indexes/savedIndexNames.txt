@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Yokie\OneDrive\Documents\TNEB\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+276198932.index
+1927169603.index
+3333634229.index
+3647608065.index
+187444703.index
+1485836099.index
+3595286225.index
+3659997234.index
